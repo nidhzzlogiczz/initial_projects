@@ -1,0 +1,30 @@
+/* for some mobile view */
+/* navbar styling */
+#logo img {
+    
+    display:inline;
+}
+#logo
+{
+    margin: 0 0;
+    display: inline-block;
+}
+#mainnav
+{
+    display: inline-block;
+}
+#mainhead
+{
+    display: inline-block;
+}
+
+}
+#Home::before
+{
+    background-size: auto;
+}
+#menubar
+{
+    display: flex;
+    justify-content: space-between;
+}
